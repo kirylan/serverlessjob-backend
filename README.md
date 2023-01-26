@@ -1,2 +1,2 @@
 # serverlessjob-backend
-serverlessjob.com
+AWS CDK based serverless infrastructure + lambda code
